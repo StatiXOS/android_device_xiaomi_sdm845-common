@@ -12,6 +12,20 @@
     "remote": "github"
   },
   {
+    "repository": "mvaisakh/gcc-arm64",
+    "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-elf",
+    "clone_depth": "1",
+    "branch": "gcc-master",
+    "remote": "github"
+  },
+  {
+    "repository": "mvaisakh/gcc-arm",
+    "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi",
+    "clone_depth": "1",
+    "branch": "gcc-master",
+    "remote": "github"
+  },
+  {
     "repository": "android_kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845"
   },
