@@ -16,7 +16,7 @@
     "target_path": "kernel/xiaomi/sdm845"
   },
   {
-    "repository": "android_vendor_xiaomi_sdm845-common",
+    "repository": "StatiXOS/android_vendor_xiaomi_sdm845-common",
     "target_path": "vendor/xiaomi/sdm845-common",
     "branch": "11",
     "remote": "gitlab"
