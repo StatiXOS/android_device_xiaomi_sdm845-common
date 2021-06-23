@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8c330494_1e1eda0e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000048
+      },
+      "writtenOn": "2021-06-23T18:09:16Z",
+      "side": 1,
+      "message": "could probably merge this along with the previous commit instead of having separate commits? \nwould wait for someone else to comment",
+      "revId": "9c706e30e062e9651a8429fc6a8f95bbbdcddc77",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    }
+  ]
+}
