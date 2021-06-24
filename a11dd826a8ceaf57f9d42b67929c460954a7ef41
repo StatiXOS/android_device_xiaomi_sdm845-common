@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "15b7bcce_f82d5f92",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2021-06-24T00:52:13Z",
+      "side": 1,
+      "message": "Comment removed by: Sourajit Karmakar; Reason: resolved internally",
+      "revId": "a11dd826a8ceaf57f9d42b67929c460954a7ef41",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    }
+  ]
+}
