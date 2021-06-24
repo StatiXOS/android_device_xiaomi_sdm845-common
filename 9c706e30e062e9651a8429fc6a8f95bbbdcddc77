@@ -33,6 +33,24 @@
       "message": "Comment removed by: Sourajit Karmakar; Reason: addressed in a previous commit",
       "revId": "9c706e30e062e9651a8429fc6a8f95bbbdcddc77",
       "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8b36b754_953c1055",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2021-06-24T06:14:21Z",
+      "side": 1,
+      "message": "well, he could if the commits weren\u0027t on different repos. I assumed you were referring to 5209 here, so feel free to correct me if that\u0027s not it",
+      "parentUuid": "8c330494_1e1eda0e",
+      "revId": "9c706e30e062e9651a8429fc6a8f95bbbdcddc77",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
     }
   ]
 }
