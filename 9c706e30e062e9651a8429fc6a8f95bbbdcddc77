@@ -16,6 +16,23 @@
       "message": "could probably merge this along with the previous commit instead of having separate commits? \nwould wait for someone else to comment",
       "revId": "9c706e30e062e9651a8429fc6a8f95bbbdcddc77",
       "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ac283993_da786ece",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2021-06-24T00:52:58Z",
+      "side": 1,
+      "message": "Comment removed by: Sourajit Karmakar; Reason: addressed in a previous commit",
+      "revId": "9c706e30e062e9651a8429fc6a8f95bbbdcddc77",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
     }
   ]
 }
