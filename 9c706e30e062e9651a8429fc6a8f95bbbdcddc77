@@ -69,6 +69,24 @@
       "parentUuid": "8b36b754_953c1055",
       "revId": "9c706e30e062e9651a8429fc6a8f95bbbdcddc77",
       "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9b194a65_9a3ee047",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000061
+      },
+      "writtenOn": "2021-07-18T06:07:00Z",
+      "side": 1,
+      "message": "I mean, they\u0027re still different",
+      "parentUuid": "8c330494_1e1eda0e",
+      "revId": "9c706e30e062e9651a8429fc6a8f95bbbdcddc77",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
     }
   ]
 }
